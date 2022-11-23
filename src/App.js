@@ -21,7 +21,7 @@ function App() {
   return (
     <div>
         <Routes>
-          <Route path='/' element={<JobList products={products}/>}/>
+          <Route path='job-list' element={<JobList products={products}/>}/>
           <Route path='job-list/:link' element={<JobDetailed products={products}/>}/>
         </Routes>
     </div>
