@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+      font-family: Proxima Nova, system-ui, sans-serif;
+      background-color: #E6E9F2;
+      color: #3A4562;
+      height: 100%;
+    }
+
+    li {
+      color: rgba(56, 69, 100, 0.6326);
+    }
+
+    li span {
+      color: #3A4562;
+      
+    }
+
+    hr {
+      background-color: #3A4562;
+      opacity: 0.13;
+    }
+
+    .active {
+      color: #5876C5;
+      width: 10px;
+      border-bottom: 2.6px solid #5876C5;
+      padding-bottom: 11px;
+      transform: scaleX(1);
+      transition: all 0.2s ease-in-out 0s;
+    }
+  }
