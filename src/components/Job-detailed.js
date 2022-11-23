@@ -27,7 +27,7 @@ function Detailed (props) {
 
         <>
             <div className="flex flex-col font-normal text-lg">
-                <a className="w-32 h-[52px] mt-[39px] mb-8 rounded-lg bg-[#384564] flex items-center justify-center" href="job-list">
+                <a className="w-32 h-[52px] mt-[39px] mb-8 rounded-lg bg-[#384564] flex items-center justify-center" href="/job-list">
                     <button>
                         <p className="text-secondary font-semibold text-xs">Apply Now</p>
                     </button>
@@ -67,7 +67,7 @@ function Detailed (props) {
                         </ul>
                     </div>
                 </div>
-                <a className="w-32 h-[52px] rounded-lg bg-[#384564] flex items-center justify-center" href="/">
+                <a className="w-32 h-[52px] rounded-lg bg-[#384564] flex items-center justify-center" href="/job-list">
                     <button>
                         <p className="text-secondary font-semibold text-xs">Apply Now</p>
                     </button>
