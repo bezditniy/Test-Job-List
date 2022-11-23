@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Test-Job-List/static/css/main.bffa74de.css",
+    "main.js": "/Test-Job-List/static/js/main.fe83ccd1.js",
+    "static/media/ArrowRight.svg": "/Test-Job-List/static/media/ArrowRight.ac415b5cc6c60eda18339d75cfefadc4.svg",
+    "static/media/ArrowLeft.svg": "/Test-Job-List/static/media/ArrowLeft.8ee061274ab37e352f389da503cd485e.svg",
+    "static/media/Share.svg": "/Test-Job-List/static/media/Share.7381a5999554764f3ce8249d49192539.svg",
+    "static/media/Arrow.svg": "/Test-Job-List/static/media/Arrow.81b0f26cb6486aa14408fc44c9104536.svg",
+    "index.html": "/Test-Job-List/index.html",
+    "static/media/Location.svg": "/Test-Job-List/static/media/Location.0307b2ed693c0ae210e7442ed15975a6.svg",
+    "static/media/MarkItem.svg": "/Test-Job-List/static/media/MarkItem.9d3e2272f7f3becf7329f8ac6703729a.svg",
+    "static/media/NavigateMark.svg": "/Test-Job-List/static/media/NavigateMark.1c093ca173a538132f1ce31ab6296061.svg",
+    "main.bffa74de.css.map": "/Test-Job-List/static/css/main.bffa74de.css.map",
+    "main.fe83ccd1.js.map": "/Test-Job-List/static/js/main.fe83ccd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bffa74de.css",
+    "static/js/main.fe83ccd1.js"
+  ]
+}
